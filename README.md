@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-`N/A`
+`AlgoMaster.io OOP Fundamentals`
 
 ## Verbal Collaboration
 
